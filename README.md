@@ -1,6 +1,6 @@
 # Wafilife Selenium Web Automation
 
-This repository contains an automated web testing project for https://www.wafilife.com/, Utilizing **Selenium**, **Java**, **TestNG**, and the Page Object Model **(POM)** framework. The project is structured based on Maven architecture.
+This repository contains an automated web testing project for https://www.wafilife.com/, Utilizing **Selenium**, **Java**, **TestNG**, and the Project Object Model **(POM)** framework. The project is structured based on Maven architecture.
 
 ## Project Structure
 
